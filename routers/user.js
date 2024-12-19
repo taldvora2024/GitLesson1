@@ -1,1 +1,1 @@
-console.log("thr user in routers")
+console.log("the user in routers")

@@ -1,1 +1,1 @@
-console.log("thr user in app")
+console.log("the user in app")
